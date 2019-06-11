@@ -1,0 +1,5 @@
+friend 1
+friend 2
+friend 3
+friend 4
+friend 5
